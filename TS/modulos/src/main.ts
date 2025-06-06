@@ -1,4 +1,4 @@
-import { Somar, Dividir, Multiplicar, Subtrair } from "./aritmetica"
+import { Somar, Dividir, Multiplicar, Subtrair } from "../calculo/aritmetica"
 
 const soma = new Somar()
 const divisao = new Dividir()

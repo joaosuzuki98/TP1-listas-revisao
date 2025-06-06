@@ -1,4 +1,4 @@
-import { Cliente, Telefone, Empresa, Endereco } from "./modelo.js"
+import { Cliente, Telefone, Empresa, Endereco } from "../modulo/modelo.js"
 
 const endereco1 = new Endereco("SP", "São Paulo", "Av. Paulista", 1000)
 const endereco2 = new Endereco("RJ", "Rio de Janeiro", "Rua das Laranjeiras", 200)
